@@ -1,0 +1,7 @@
+com\app\practice\dto\QuestionDTO.class
+com\app\practice\config\ClientConfiguration.class
+com\app\practice\controller\QuestionController.class
+com\app\practice\PracticeApplication.class
+com\exception\BadRequestAlertException.class
+com\app\practice\dto\CategoryDTO.class
+com\app\practice\rest\RestClient.class
